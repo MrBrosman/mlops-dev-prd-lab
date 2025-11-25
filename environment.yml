@@ -1,0 +1,8 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - requests
+  - pandas
+prefix: /opt/anaconda3/envs/project-env
